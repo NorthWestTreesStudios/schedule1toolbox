@@ -1,3 +1,6 @@
+
+<img width="256" height="256" alt="logo" src="https://github.com/user-attachments/assets/ff314233-808a-4ea8-9620-65c2fe5cc363" />
+
 # About The App
 The app is created with the Godot engine. The project started as more of a curiosity about how much money one actually makes and all the expenses for making such products in the Game Schedule 1. So over the course of there days I  put this simple app together in Godot and thought it could actually help more people if I published it on my website for free.
 
